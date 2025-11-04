@@ -81,7 +81,6 @@ src/
 
 ### 1️⃣ Clone the Repository
 git clone https://github.com/Tushar-2808/Dashboard-with-Authentication.git
-cd join-eazy-frontend
 
 2️⃣ Install Dependencies
 npm install
